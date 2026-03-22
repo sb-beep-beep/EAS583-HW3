@@ -12,7 +12,7 @@ def sign_challenge( challenge ):
     
     This is the only line you need to modify in this file before you submit """
     
-    sk = "0x85ac2e065d4526FBeE6a2253389669a12318A412"
+    sk = "0x32ae4957b5b3b99b250cff8dbd16171f8ca2c498b5c9ea6d7ccb50ff01b99d66"
 
     acct = w3.eth.account.from_key(sk)
 
