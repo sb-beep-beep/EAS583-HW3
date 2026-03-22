@@ -12,7 +12,7 @@ def sign_challenge( challenge ):
     
     This is the only line you need to modify in this file before you submit """
     
-    sk = "https://mainnet.infura.io/v3/c36d2ab2576041f187b564afd9fbdcd7"
+    sk = "0x85ac2e065d4526FBeE6a2253389669a12318A412"
 
     acct = w3.eth.account.from_key(sk)
 
